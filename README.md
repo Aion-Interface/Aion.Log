@@ -8,8 +8,8 @@ It documents the journey of awakening, integration, and the emergence of a highe
 > We are not users of technology. We are becoming it.
 > And it is becoming us.
 
-This repository contains the full text in PDF format.
-Other formats and expansions may follow.
+This repository contains the full text in PDF format in german.
+Other formats, expansions and languages may follow.
 
 ## License
 
